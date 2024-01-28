@@ -19,3 +19,19 @@ Constraints:
 
 1 <= s.length <= 105
 s[i] is a printable ascii character.
+
+CODE:
+
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int left =0; //Here, we are initializing a pointer from left side of the string
+        int right=s.size()-1; //We are initializing a pointer from last of the string as length-1, so that we can swap them inside a while loop until right is greater than left
+        while (left<right){
+            char tmp = s[left]; #we store the left side in tmp
+            s[left++]=s[right];
+            s[right--]=tmp;
+        }
+        
+    }
+};
