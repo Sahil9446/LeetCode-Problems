@@ -6,7 +6,7 @@ Welcome to my LeetCode Problems repository! Here, you'll find C++ solutions for 
 
 Each file in this repository corresponds to a specific LeetCode problem and follows a consistent format:
 
-- **File Name**: `<problem_number>_<problem_title>.cpp`
+- **File Name**: `<problem_title>.cpp`
 - **Comments**: The solution file will have detailed comments, including the LeetCode question description, at the beginning of the file.
 
 ## How to Navigate
