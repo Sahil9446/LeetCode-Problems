@@ -18,7 +18,7 @@ Each file in this repository corresponds to a specific LeetCode problem and foll
 
 ## Table of Contents
 
-- [1. Linked List Cycle](./Linked_List_cycle.cpp)
+- [1. Linked List Cycle](./Linked_List_Cycle.cpp)
 
 Feel free to explore, learn, and contribute!
 
