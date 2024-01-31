@@ -8,6 +8,7 @@ Each file in this repository corresponds to a specific LeetCode problem and foll
 
 - **File Name**: `<problem_title>.cpp`
 - **Comments**: The solution file will have detailed comments, including the LeetCode question description, at the beginning of the file.
+- **Solution**: The Solution of each question will be given below the LeetCode queestion description without using any comments.
 
 ## How to Navigate
 
