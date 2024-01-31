@@ -19,6 +19,8 @@ Each file in this repository corresponds to a specific LeetCode problem and foll
 ## Table of Contents
 
 - [1. Linked List Cycle](./Linked_List_Cycle.cpp)
+- [2. Middle of the Linked List](./Middle_of_the_Linked_List.cpp)
+- [3. Reverse String](./Reverse_String.cpp)
 
 Feel free to explore, learn, and contribute!
 
